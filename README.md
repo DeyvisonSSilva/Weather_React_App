@@ -61,9 +61,9 @@ Para rodar o Weather React App localmente, vocÃª precisa ter instalado em sua mÃ
 6. **Abra no navegador:**
    Acesse ```http://localhost:5173``` para usar o app.
     
-**Contribuindo**
-  Quer contribuir para o projeto? Veja o arquivo CONTRIBUTING.md para saber como.
+  **Contribuindo**
+    Quer contribuir para o projeto? Veja o arquivo CONTRIBUTING.md para saber como.
 
-**Contato**
-  Projeto desenvolvido por Deyvison Silva.
-  GitHub: @DeyvisonSSilva
+  **Contato**
+    Projeto desenvolvido por Deyvison Silva.
+    GitHub: @DeyvisonSSilva
